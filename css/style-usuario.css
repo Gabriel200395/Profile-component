@@ -1,0 +1,4 @@
+.display-usuario {
+  display: flex;
+  justify-content: space-around;
+}
