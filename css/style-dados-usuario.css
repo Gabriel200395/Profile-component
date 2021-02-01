@@ -11,17 +11,17 @@
 }
 
 .dados-usuario .informacao-usuario p {
-  color: #fff;
+  color: #b7b7b7;
   font-family: "Rubik", sans-serif;
   font-weight: 300;
   font-size: 14px;
 }
 
 .dados-usuario .informacao-usuario p:nth-child(1) {
-  color: #fff;
+  color: #b7b7b7;
   font-family: "Rubik", sans-serif;
   font-weight: 500;
-  font-size: 28px;
+  font-size: 25px;
 }
 
 .icone-editar {
@@ -35,7 +35,7 @@
 }
 
 .icone-editar p {
-  color: #fff;
+  color: #b7b7b7;
   font-family: "Rubik", sans-serif;
   font-weight: 400;
   font-size: 14px;

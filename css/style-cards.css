@@ -1,0 +1,43 @@
+#cards {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+}
+
+.card-container {
+  width: 90%;
+  margin-top: 30px;
+}
+
+#cards div {
+  width: 19%;
+  height: 60px;
+  margin: 20px 8px;
+  padding: 16px 0px 0px 10px;
+  border-radius: 5px;
+}
+
+#cards div:nth-child(1) {
+  background-color: #046313;
+}
+
+#cards div:nth-child(2) {
+  background-color: #044a7d;
+}
+
+#cards div:nth-child(3) {
+  background-color: #725200;
+}
+
+#cards div p {
+  font-family: "Rubik", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  margin-bottom: 0px;
+}
+
+#cards div span {
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+}
