@@ -1,3 +1,42 @@
 .dados-usuario {
   display: flex;
+  align-items: center;
+}
+
+.dados-usuario img {
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  margin: 0px 14px;
+}
+
+.dados-usuario .informacao-usuario p {
+  color: #fff;
+  font-family: "Rubik", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.dados-usuario .informacao-usuario p:nth-child(1) {
+  color: #fff;
+  font-family: "Rubik", sans-serif;
+  font-weight: 500;
+  font-size: 28px;
+}
+
+.icone-editar {
+  display: flex;
+  align-items: center;
+}
+
+.icone-editar img {
+  height: 20px;
+  margin: 0px 6px;
+}
+
+.icone-editar p {
+  color: #fff;
+  font-family: "Rubik", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
 }
